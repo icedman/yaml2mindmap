@@ -1,0 +1,246 @@
+{
+ "nodes": [
+  {
+   "nodes": [
+    {
+     "text": "failure to pay dues within 6 months ~ suspension"
+    }, 
+    {
+     "text": "more than 1 year ~ remove from roll of attorneys"
+    }
+   ], 
+   "text": "dues"
+  }, 
+  {
+   "nodes": [
+    {
+     "text": "1. disbarment"
+    }, 
+    {
+     "text": "2. reprimand"
+    }, 
+    {
+     "text": "3. admonition"
+    }, 
+    {
+     "text": "4. warning"
+    }, 
+    {
+     "text": "5. probation"
+    }, 
+    {
+     "text": "6. interim suspension"
+    }, 
+    {
+     "text": "7. censure"
+    }, 
+    {
+     "text": "8. suspension"
+    }
+   ], 
+   "text": "discipline DRAW PICS"
+  }, 
+  {
+   "nodes": [
+    {
+     "text": "court of appeals"
+    }, 
+    {
+     "text": "rtc"
+    }, 
+    {
+     "text": "until futher action of the SC"
+    }, 
+    {
+     "text": "... SC after full investigation\nSC may revoke, shorten or extend the suspension, or disbar"
+    }
+   ], 
+   "text": "suspend"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "exclusive power of SC"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "1. deceit"
+      }, 
+      {
+       "text": "2. malpractice"
+      }, 
+      {
+       "text": "3. or other gross misconduct"
+      }, 
+      {
+       "text": "3. grossly immoral conduct"
+      }, 
+      {
+       "text": "4. conviction of a crime involving moral turpitude"
+      }, 
+      {
+       "text": "5. or for any violation of the oath"
+      }, 
+      {
+       "text": "6. wilful disobedience of any lawful order of a superior court"
+      }, 
+      {
+       "text": "7. for corruptly or wilfully appearing as an attorney ... without authority"
+      }, 
+      {
+       "text": "8. soliciting cases at law for the purpose of gain ... is malpractice"
+      }
+     ], 
+     "text": "grounds"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "SC"
+      }, 
+      {
+       "text": "IBP, Committee on Bar and Discipline"
+      }, 
+      {
+       "text": "Office of the Sol Gen"
+      }
+     ], 
+     "text": "authorized to investigate"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "SC, motu proprio"
+      }, 
+      {
+       "text": "IBP upon verified complaint by any person"
+      }
+     ], 
+     "text": "prceeding instituted in"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "motu proprio"
+      }, 
+      {
+       "text": "referral by SC"
+      }, 
+      {
+       "text": "referral by Chapter"
+      }, 
+      {
+       "text": "instance of any person"
+      }
+     ], 
+     "text": "initiated and prosecuted by IBP"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "Verified"
+      }, 
+      {
+       "text": "Facts stated clearly. concisely"
+      }, 
+      {
+       "text": "Affidavit of person having personal knowlege"
+      }, 
+      {
+       "text": "6 copies"
+      }, 
+      {
+       "text": "charges against judges and justice\n...only to SC"
+      }
+     ], 
+     "text": "complaint"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "3 investigators (30 days)"
+      }, 
+      {
+       "text": "review by board of governors (30 days)"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "MR (although not mentioned in the rules)"
+        }, 
+        {
+         "text": "transmit to SC"
+        }
+       ], 
+       "text": "finding of guilt"
+      }
+     ], 
+     "text": "procedure in IBP"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "initiated motu proprio"
+      }, 
+      {
+       "text": "may refer for investigationto\nSolGen, or officer of SC or judge of lower court"
+      }
+     ], 
+     "text": "procedure in SC"
+    }
+   ], 
+   "text": "disbarment"
+  }, 
+  {
+   "nodes": [
+    {
+     "text": "requires positive evidence of rehabilitation"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "character and standing prior disbarment"
+      }, 
+      {
+       "text": "nature and character of misconduct"
+      }, 
+      {
+       "text": "conduct subsequent disbarment"
+      }, 
+      {
+       "text": "efficient government service"
+      }, 
+      {
+       "text": "time elapsed ~ sufficiently punished and disciplined"
+      }, 
+      {
+       "text": "appreciation of significance"
+      }, 
+      {
+       "text": "favorable endorsement of IBP, local gov't, or community"
+      }
+     ], 
+     "text": "criteria"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "sworn statement through Office of Bar Confidant\nthat he desisted from practice of law\nnot appeared in any court"
+      }, 
+      {
+       "text": "furnish copy to IBP, Executive judge who handled the case"
+      }, 
+      {
+       "text": "statement shall be proof of compliance with order of suspension"
+      }
+     ], 
+     "text": "lifting order of suspension"
+    }
+   ], 
+   "text": "reinstatement"
+  }
+ ], 
+ "text": "the integrated bar"
+}

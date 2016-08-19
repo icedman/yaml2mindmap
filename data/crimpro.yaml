@@ -1,0 +1,216 @@
+Criminal\nProcedure:
+    _class:style2
+
+    motion to quash:
+        childrenDirection:down
+        grounds:
+
+            not constitute offense
+            no juris. offense
+            no juris. person
+            office filed no authority
+            not conform to prescribed form
+            more than one offense charged
+            crim liability extinguished
+            contains averments constituting legal excuse
+            double jeopardy
+
+        not waived:
+            facts charged not constitute an offense
+            no jurisdiction over the offense
+            action or liability extinguished
+            double jeopardy
+
+    jurisdiction:
+
+        childrenDirection:down
+        MTC:
+
+            offenses not exceeding 6\nyears imprisonment
+            not more than P4000 fine
+            violation of city, municipal ordinances
+            damage to property through criminal negligence
+            BP22
+            summary procure:
+
+                traffic laws
+                not exceeding 6 months or not exceeding P1000
+                damage to property where fine not exceeding P10000
+
+            ..qualified by cases falling under\nRTC and the Sandiganbayan
+            barangay conciliation:
+                less than 4 years, 2 months, 1 day
+
+        RTC:
+
+            exclusive original over all criminal cases\nexcept in MTC and Sandiganbayan\nmore than 6 years
+            appellate jurisdiction over MTC
+            under specific laws
+            written defamation
+            comprehensive dangerous drug act
+            violation of intellectual property rights
+
+        sandiganbayan:
+            _class:style2
+
+            exclusive and original:
+
+                RA 3019
+                RA 1379
+                salary grade 27\nenumerated offiercs
+
+            offenses and felonies\nin relation to office
+            civil and criminal cases\nEO 1,2,14,14-a
+
+
+    preliminary investigation:
+
+        childrenDirection:down
+        at least 4 years, 2 months, 1 day
+        if not required:\n1. file complaint MTC, MTCC\n2. or Office of prosecutor:
+            manila and chartered cities\n.. file with office of prosecutor
+
+    bail:
+        direction:left
+        _class:style2
+
+        Sec 13. Article III Consti
+            presumption of innonce
+            excessive bail
+
+        guarantee appearance
+
+        matter of right
+            MTC
+            RTC before conviction
+                not death, reclusion perpetua\life imprisonment
+
+        matter of discretion
+            before conviction in RTC and
+            death, reclusion, life and
+            evidence of guilt is strong
+
+        matter of denial
+            RTC, d,r,l, guilt is strong, or after conviction
+            RTC, after conviction, exceeding 6 years and:
+                recidivist, quasi-recidivist,\nhabitual delinquent, reiteration
+                escaped, violated bail conditions
+                committed offense while on probation,\nparole or conditional pardon
+                indication of flight
+                undue risk
+
+
+    civil action:
+        direction:left
+
+        deemed instituted\nunless waived, reserved,\ninstituted prior
+        independent civil actions
+        new node
+
+    prosecution:
+        direction:left
+
+        childrenDirection:down
+        private prosectutor\neven without public..\n1. heavy workload\n2. lack of public prosec:
+
+            authorization in writing
+            from Chief of Prosecution Office\nor Regioanl State Prosecutor
+            approved by the court
+
+        private crimes:
+
+            childrenDirection:down
+            adulter and concubinage
+            seduction, abduction, acts of lasciviousness
+            RA 7610
+            defamation consisting of imputation\nof offense of adultery, concubinage..
+
+        direction and control
+
+    complaint:
+        direction:left
+
+        childrenDirection:down
+        sworn written statement
+        charging with an offense
+        subscribed by::
+
+            1. offended party; or
+            2. peace officer; or
+            3. public officer charged with\nenforcement of law violated
+
+    information:
+        direction:left
+
+        written statement
+        subscribed by prosecutor
+
+    substitution:
+        direction:left
+        amendment
+            before plea
+                no leave
+                leave of court (even before plea) if:
+                    downgrades
+                    excludes one of the accused
+                motion by prosecutor, notice to offended
+            after plea
+                formal
+                    leave of court
+                    must not prejudice rights
+                substantial
+                    not allowed
+
+        substitution:
+            mistake in the charging the proper offense
+            must not put accused in double jeopardy
+
+    demurrer to evidence:
+        direction:left
+        with leave
+            motion for leave (with 5 days from rest)
+            if granted, file the demurrer within 10
+                if demurrer granted ~ acquittal
+            if denied, adduce evidence
+        without leave
+            if demurrer granted ~  acquittal
+            if denied, waives right to adduce evidence
+
+    judgment:
+
+        variance:
+            offense proved is different from charged
+                convicted with the offense proved
+            offense charged is necessarily included in offsense proved
+            or necessisarily includes offense proved
+                essential elements or ingredients
+
+        if accused fails to appear in promulgation
+            without just cause
+            loses his remedies unless
+                surrender
+                motion for leave to avail of remedies
+
+        new trial (grounds):
+            errors of law
+            irregularities prejudicial to substantial rights
+            new and material evidence
+                discovered after the trial
+                diligence
+                probably change the judgment
+            effect ~ set aside, taken anew, allow new evidence
+
+        reconsideration
+            errors of law which requires no further proceedings
+            errors of fact which requires no further proceedings
+            effects ~ set aside, new judgment rendered
+
+        appeal
+            notice of appeal
+            within 15 days
+
+        provisional remedy (attachment):
+            about to abscond
+            crime founded upon a claim of property embezzled
+            concealed, removed, disposed, about to
+            accused resides outside

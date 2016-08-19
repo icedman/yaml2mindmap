@@ -1,0 +1,278 @@
+Civil\nProcedure:
+    _css
+
+        style2
+            border:2
+            margin:4
+            borderColor:FF0000
+            edge:3
+
+    _class:style2
+
+    _style:
+        margin:4
+
+    jurisdiction:
+        _class:style2
+
+        of the courts
+        over the parties:
+            name:over_parties
+        over the subject matter
+        over the issues
+        over the res
+
+    summons:
+        name:summons
+
+        modes:
+            _class:style2
+
+            personal service
+            substituted service
+            constructive service (publication):
+
+                identity or whereabouts unknown
+                residents temporarily outside
+
+            extra-territorial service
+
+        default:
+
+            remedies
+            requisites
+
+        answer with 15,30,60 days
+
+    modes of discovery:
+        name:modes_of_disc
+        direction:left
+        _class:style2
+
+        childrenDirection:down
+        depositions:
+            name:depositions
+            _class:style2
+
+            childrenDirection:down
+            with leave:
+
+                in prison
+                after obtained jurisdiction, before answer
+
+            without leave
+            protection order, for good cause [rule 16]
+            motion to terminate or limit [rule 18]:
+                conducted in bad faith or in manner\nunreasonably to annoy, embarrass, oppress
+            use against:
+
+                present
+                represented
+                had notice
+
+            used by:
+
+                by any party to impeach, contradict
+                deposition of officer, director or managing agent\nby adverse party for any purpose
+                deposition of witness for any purpose
+
+            pending action
+            before action or pending appeal:
+                verified petition
+
+        written interrogatories:
+            name:written_inter
+
+            childrenDirection:down
+            elicit facts from any adverse party
+            party not served may not be\ncompelled to give testimony
+            with leave before answer is served\nbecause issues are not yet joined
+            versus
+            any time after issues have been joined
+            scope:
+
+                genuiness of any material and relevant document
+                truth of any material and relevant matter
+                a mater of fact not related to\nany document for admission or denial
+
+
+        request for admission:
+
+            MUST be SERVED upon party requested, not his counsel
+            relevant and material matters of fact\nnot matters of law, conclusion, opinions
+            failure to serve a request-\ncannot be permitted to present evidence\non such fact:
+                except for good cause and\nprevent failure of justice
+
+        production and inspection\nof documents:
+            vs subpoena:
+
+                limited to parties
+                may be before or during trial
+                on motion
+
+        physical and mental examination [Rule 28]:
+
+            in a pending action
+            mental or physical condition is in controversy
+            waiver of privilege [section 4]
+
+        refusal to comply [Rule 29]:
+
+            childrenDirection:down
+            compel
+            party or counsel, or both pay
+            contempt
+            other consequences:
+
+                facts or documents deemed established
+                refuse claims or defense
+                refuse introduction of evidence
+                striking out
+                staying the proceedings
+                dismissing the action or part thereof
+                rendering DEFAULT JUDGMENT
+                arrest
+                payment of reasonable expenses
+
+
+
+    actions:
+
+        causes of actions:
+
+            enforcemenf ot right, redress of wrong
+            prosecution for acts or omissions punishable
+            specpro; establish status, right, fact
+
+        parties:
+
+            childrenDirection:down
+            stands to be benefited,\nentitled to avails of the suit
+            intervention
+            compulsory joinder of indispensable\nwithout whom no final determination can be had
+            necessary parties\nif complete relief is to be accorded
+            class suit:
+
+                common controversy
+                numerous, impracticable to join
+                sufficiently numerous and representative as to protect
+
+            death:
+
+                actions that survive
+                duty of counsel ~ inform court with 30 days\nname and address of representative:
+
+                    childrenDirection:down
+                    heirs may substitute
+                    appointment of administrator
+
+
+            joinder of parties:
+                name:join_parties1
+                _class:style2
+                requisites:
+                    _class:style2
+
+                    childrenDirection:down
+                    right to relief
+                    in respect or arising out of same transaction (series)
+                    common question of law or fact to all\nplaintiffs or defendants
+
+
+        joinder of actions:
+            _class:style2
+
+            splitting
+            requisites:
+                _class:style2
+
+                joinder of parties:
+                    name:join_parties2
+                no special civil actions
+                totality rule (aggregate amount)
+                venue, jurisdiction\nRTC, if venue lies therein
+
+
+        venue of actions
+
+    demurrer to evidence:
+        direction:left
+        _class:style2
+        difference with\ncriminal proceedings
+    judgments:
+
+        execution:
+            execution pending appeal
+        summary judgments
+        judgment on the pleadings
+
+    post-judgment\nremedies:
+        _class:style2
+
+        motion for new trial\nmotion for reconsideration:
+
+            childrenDirection:down
+            new trial:
+
+                FAME:
+                    prudence could not have\nguared against
+                newly discovered evidence:
+                    diligence;\nchanges the result
+
+            MR:
+
+                excessive
+                contrary to law
+                not supporte by\nevidence
+
+
+        appeal
+        relief from judgment:
+            FAME
+        annulment of judgment:
+
+            extrinsic fraud
+            lack of jurisdiction\n(including lack of due process)
+
+        collateral attack
+
+    motion to dismiss:
+        name:motion_dismiss
+        _class:style2
+
+        lack of jurisdiction
+        litis pendencia
+        res judicata
+        prescription
+
+    pleadings:
+        direction:left
+
+        amendments:
+
+            matter of right - before responsive
+            with leave - after
+
+        supplemental pleadings
+        bill of particulars:
+            vs modes of discovery:
+                name:vs_modes_of_disc
+
+    no applicable:
+        direction:left
+
+        elections
+        land regsitration
+        cadastral
+        naturalization
+        insolvency
+
+    before the answer:
+        name:before_answer
+        direction:left
+edges:
+  depositions, written_inter
+  modes_of_disc, vs_modes_of_disc
+  before_answer, motion_dismiss
+  join_parties1, join_parties2
+  summons, over_parties

@@ -1,0 +1,575 @@
+{
+ "_class": "style2", 
+ "nodes": [
+  {
+   "childrenDirection": "down", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "not constitute offense"
+      }, 
+      {
+       "text": "no juris. offense"
+      }, 
+      {
+       "text": "no juris. person"
+      }, 
+      {
+       "text": "office filed no authority"
+      }, 
+      {
+       "text": "not conform to prescribed form"
+      }, 
+      {
+       "text": "more than one offense charged"
+      }, 
+      {
+       "text": "crim liability extinguished"
+      }, 
+      {
+       "text": "contains averments constituting legal excuse"
+      }, 
+      {
+       "text": "double jeopardy"
+      }
+     ], 
+     "text": "grounds"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "facts charged not constitute an offense"
+      }, 
+      {
+       "text": "no jurisdiction over the offense"
+      }, 
+      {
+       "text": "action or liability extinguished"
+      }, 
+      {
+       "text": "double jeopardy"
+      }
+     ], 
+     "text": "not waived"
+    }
+   ], 
+   "text": "motion to quash"
+  }, 
+  {
+   "childrenDirection": "down", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "offenses not exceeding 6\nyears imprisonment"
+      }, 
+      {
+       "text": "not more than P4000 fine"
+      }, 
+      {
+       "text": "violation of city, municipal ordinances"
+      }, 
+      {
+       "text": "damage to property through criminal negligence"
+      }, 
+      {
+       "text": "BP22"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "traffic laws"
+        }, 
+        {
+         "text": "not exceeding 6 months or not exceeding P1000"
+        }, 
+        {
+         "text": "damage to property where fine not exceeding P10000"
+        }
+       ], 
+       "text": "summary procure"
+      }, 
+      {
+       "text": "..qualified by cases falling under\nRTC and the Sandiganbayan"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "less than 4 years, 2 months, 1 day"
+        }
+       ], 
+       "text": "barangay conciliation"
+      }
+     ], 
+     "text": "MTC"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "exclusive original over all criminal cases\nexcept in MTC and Sandiganbayan\nmore than 6 years"
+      }, 
+      {
+       "text": "appellate jurisdiction over MTC"
+      }, 
+      {
+       "text": "under specific laws"
+      }, 
+      {
+       "text": "written defamation"
+      }, 
+      {
+       "text": "comprehensive dangerous drug act"
+      }, 
+      {
+       "text": "violation of intellectual property rights"
+      }
+     ], 
+     "text": "RTC"
+    }, 
+    {
+     "_class": "style2", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "RA 3019"
+        }, 
+        {
+         "text": "RA 1379"
+        }, 
+        {
+         "text": "salary grade 27\nenumerated offiercs"
+        }
+       ], 
+       "text": "exclusive and original"
+      }, 
+      {
+       "text": "offenses and felonies\nin relation to office"
+      }, 
+      {
+       "text": "civil and criminal cases\nEO 1,2,14,14-a"
+      }
+     ], 
+     "text": "sandiganbayan"
+    }
+   ], 
+   "text": "jurisdiction"
+  }, 
+  {
+   "childrenDirection": "down", 
+   "nodes": [
+    {
+     "text": "at least 4 years, 2 months, 1 day"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "manila and chartered cities\n.. file with office of prosecutor"
+      }
+     ], 
+     "text": "if not required\n1. file complaint MTC, MTCC\n2. or Office of prosecutor"
+    }
+   ], 
+   "text": "preliminary investigation"
+  }, 
+  {
+   "_class": "style2", 
+   "direction": "left", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "presumption of innonce"
+      }, 
+      {
+       "text": "excessive bail"
+      }
+     ], 
+     "text": "Sec 13. Article III Consti"
+    }, 
+    {
+     "text": "guarantee appearance"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "MTC"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "not death, reclusion perpetua\\life imprisonment"
+        }
+       ], 
+       "text": "RTC before conviction"
+      }
+     ], 
+     "text": "matter of right"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "before conviction in RTC and"
+      }, 
+      {
+       "text": "death, reclusion, life and"
+      }, 
+      {
+       "text": "evidence of guilt is strong"
+      }
+     ], 
+     "text": "matter of discretion"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "RTC, d,r,l, guilt is strong, or after conviction"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "recidivist, quasi-recidivist,\nhabitual delinquent, reiteration"
+        }, 
+        {
+         "text": "escaped, violated bail conditions"
+        }, 
+        {
+         "text": "committed offense while on probation,\nparole or conditional pardon"
+        }, 
+        {
+         "text": "indication of flight"
+        }, 
+        {
+         "text": "undue risk"
+        }
+       ], 
+       "text": "RTC, after conviction, exceeding 6 years and"
+      }
+     ], 
+     "text": "matter of denial"
+    }
+   ], 
+   "text": "bail"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "deemed instituted\nunless waived, reserved,\ninstituted prior"
+    }, 
+    {
+     "text": "independent civil actions"
+    }, 
+    {
+     "text": "new node"
+    }
+   ], 
+   "text": "civil action"
+  }, 
+  {
+   "childrenDirection": "down", 
+   "direction": "left", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "authorization in writing"
+      }, 
+      {
+       "text": "from Chief of Prosecution Office\nor Regioanl State Prosecutor"
+      }, 
+      {
+       "text": "approved by the court"
+      }
+     ], 
+     "text": "private prosectutor\neven without public..\n1. heavy workload\n2. lack of public prosec"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "text": "adulter and concubinage"
+      }, 
+      {
+       "text": "seduction, abduction, acts of lasciviousness"
+      }, 
+      {
+       "text": "RA 7610"
+      }, 
+      {
+       "text": "defamation consisting of imputation\nof offense of adultery, concubinage.."
+      }
+     ], 
+     "text": "private crimes"
+    }, 
+    {
+     "text": "direction and control"
+    }
+   ], 
+   "text": "prosecution"
+  }, 
+  {
+   "childrenDirection": "down", 
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "sworn written statement"
+    }, 
+    {
+     "text": "charging with an offense"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "1. offended party; or"
+      }, 
+      {
+       "text": "2. peace officer; or"
+      }, 
+      {
+       "text": "3. public officer charged with\nenforcement of law violated"
+      }
+     ], 
+     "text": "subscribed by"
+    }
+   ], 
+   "text": "complaint"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "written statement"
+    }, 
+    {
+     "text": "subscribed by prosecutor"
+    }
+   ], 
+   "text": "information"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "no leave"
+        }, 
+        {
+         "nodes": [
+          {
+           "text": "downgrades"
+          }, 
+          {
+           "text": "excludes one of the accused"
+          }
+         ], 
+         "text": "leave of court (even before plea) if"
+        }, 
+        {
+         "text": "motion by prosecutor, notice to offended"
+        }
+       ], 
+       "text": "before plea"
+      }, 
+      {
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "text": "leave of court"
+          }, 
+          {
+           "text": "must not prejudice rights"
+          }
+         ], 
+         "text": "formal"
+        }, 
+        {
+         "nodes": [
+          {
+           "text": "not allowed"
+          }
+         ], 
+         "text": "substantial"
+        }
+       ], 
+       "text": "after plea"
+      }
+     ], 
+     "text": "amendment"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "mistake in the charging the proper offense"
+      }, 
+      {
+       "text": "must not put accused in double jeopardy"
+      }
+     ], 
+     "text": "substitution"
+    }
+   ], 
+   "text": "substitution"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "motion for leave (with 5 days from rest)"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "if demurrer granted ~ acquittal"
+        }
+       ], 
+       "text": "if granted, file the demurrer within 10"
+      }, 
+      {
+       "text": "if denied, adduce evidence"
+      }
+     ], 
+     "text": "with leave"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "if demurrer granted ~  acquittal"
+      }, 
+      {
+       "text": "if denied, waives right to adduce evidence"
+      }
+     ], 
+     "text": "without leave"
+    }
+   ], 
+   "text": "demurrer to evidence"
+  }, 
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "convicted with the offense proved"
+        }
+       ], 
+       "text": "offense proved is different from charged"
+      }, 
+      {
+       "text": "offense charged is necessarily included in offsense proved"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "essential elements or ingredients"
+        }
+       ], 
+       "text": "or necessisarily includes offense proved"
+      }
+     ], 
+     "text": "variance"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "without just cause"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "surrender"
+        }, 
+        {
+         "text": "motion for leave to avail of remedies"
+        }
+       ], 
+       "text": "loses his remedies unless"
+      }
+     ], 
+     "text": "if accused fails to appear in promulgation"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "errors of law"
+      }, 
+      {
+       "text": "irregularities prejudicial to substantial rights"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "discovered after the trial"
+        }, 
+        {
+         "text": "diligence"
+        }, 
+        {
+         "text": "probably change the judgment"
+        }
+       ], 
+       "text": "new and material evidence"
+      }, 
+      {
+       "text": "effect ~ set aside, taken anew, allow new evidence"
+      }
+     ], 
+     "text": "new trial (grounds)"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "errors of law which requires no further proceedings"
+      }, 
+      {
+       "text": "errors of fact which requires no further proceedings"
+      }, 
+      {
+       "text": "effects ~ set aside, new judgment rendered"
+      }
+     ], 
+     "text": "reconsideration"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "notice of appeal"
+      }, 
+      {
+       "text": "within 15 days"
+      }
+     ], 
+     "text": "appeal"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "about to abscond"
+      }, 
+      {
+       "text": "crime founded upon a claim of property embezzled"
+      }, 
+      {
+       "text": "concealed, removed, disposed, about to"
+      }, 
+      {
+       "text": "accused resides outside"
+      }
+     ], 
+     "text": "provisional remedy (attachment)"
+    }
+   ], 
+   "text": "judgment"
+  }
+ ], 
+ "text": "Criminal\nProcedure"
+}

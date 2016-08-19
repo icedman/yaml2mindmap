@@ -1,0 +1,819 @@
+{
+ "_class": "style2", 
+ "edges": [
+  {
+   "n1": "depositions", 
+   "n2": "written_inter"
+  }, 
+  {
+   "n1": "modes_of_disc", 
+   "n2": "vs_modes_of_disc"
+  }, 
+  {
+   "n1": "before_answer", 
+   "n2": "motion_dismiss"
+  }, 
+  {
+   "n1": "join_parties1", 
+   "n2": "join_parties2"
+  }, 
+  {
+   "n1": "summons", 
+   "n2": "over_parties"
+  }
+ ], 
+ "nodes": [
+  {
+   "nodes": [
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "style2"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "_css"
+  }, 
+  {
+   "border": "2", 
+   "borderColor": "FF0000", 
+   "edge": "3", 
+   "margin": "4", 
+   "text": "_"
+  }, 
+  {
+   "_class": "style2", 
+   "nodes": [
+    {
+     "text": "of the courts"
+    }, 
+    {
+     "name": "over_parties", 
+     "text": "over the parties"
+    }, 
+    {
+     "text": "over the subject matter"
+    }, 
+    {
+     "text": "over the issues"
+    }, 
+    {
+     "text": "over the res"
+    }, 
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "_"
+    }
+   ], 
+   "text": "jurisdiction"
+  }, 
+  {
+   "name": "summons", 
+   "nodes": [
+    {
+     "_class": "style2", 
+     "nodes": [
+      {
+       "text": "personal service"
+      }, 
+      {
+       "text": "substituted service"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "identity or whereabouts unknown"
+        }, 
+        {
+         "text": "residents temporarily outside"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "constructive service (publication)"
+      }, 
+      {
+       "text": "extra-territorial service"
+      }, 
+      {
+       "border": "2", 
+       "borderColor": "FF0000", 
+       "edge": "3", 
+       "margin": "4", 
+       "text": "_"
+      }
+     ], 
+     "text": "modes"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "remedies"
+      }, 
+      {
+       "text": "requisites"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "default"
+    }, 
+    {
+     "text": "answer with 15,30,60 days"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "summons"
+  }, 
+  {
+   "_class": "style2", 
+   "childrenDirection": "down", 
+   "direction": "left", 
+   "name": "modes_of_disc", 
+   "nodes": [
+    {
+     "_class": "style2", 
+     "childrenDirection": "down", 
+     "name": "depositions", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "in prison"
+        }, 
+        {
+         "text": "after obtained jurisdiction, before answer"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "with leave"
+      }, 
+      {
+       "text": "without leave"
+      }, 
+      {
+       "text": "protection order, for good cause [rule 16]"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "conducted in bad faith or in manner\nunreasonably to annoy, embarrass, oppress"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "motion to terminate or limit [rule 18]"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "present"
+        }, 
+        {
+         "text": "represented"
+        }, 
+        {
+         "text": "had notice"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "use against"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "by any party to impeach, contradict"
+        }, 
+        {
+         "text": "deposition of officer, director or managing agent\nby adverse party for any purpose"
+        }, 
+        {
+         "text": "deposition of witness for any purpose"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "used by"
+      }, 
+      {
+       "text": "pending action"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "verified petition"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "before action or pending appeal"
+      }, 
+      {
+       "border": "2", 
+       "borderColor": "FF0000", 
+       "edge": "3", 
+       "margin": "4", 
+       "text": "_"
+      }
+     ], 
+     "text": "depositions"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "name": "written_inter", 
+     "nodes": [
+      {
+       "text": "elicit facts from any adverse party"
+      }, 
+      {
+       "text": "party not served may not be\ncompelled to give testimony"
+      }, 
+      {
+       "text": "with leave before answer is served\nbecause issues are not yet joined"
+      }, 
+      {
+       "text": "versus"
+      }, 
+      {
+       "text": "any time after issues have been joined"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "genuiness of any material and relevant document"
+        }, 
+        {
+         "text": "truth of any material and relevant matter"
+        }, 
+        {
+         "text": "a mater of fact not related to\nany document for admission or denial"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "scope"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "written interrogatories"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "MUST be SERVED upon party requested, not his counsel"
+      }, 
+      {
+       "text": "relevant and material matters of fact\nnot matters of law, conclusion, opinions"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "except for good cause and\nprevent failure of justice"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "failure to serve a request-\ncannot be permitted to present evidence\non such fact"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "request for admission"
+    }, 
+    {
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "limited to parties"
+        }, 
+        {
+         "text": "may be before or during trial"
+        }, 
+        {
+         "text": "on motion"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "vs subpoena"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "production and inspection\nof documents"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "in a pending action"
+      }, 
+      {
+       "text": "mental or physical condition is in controversy"
+      }, 
+      {
+       "text": "waiver of privilege [section 4]"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "physical and mental examination [Rule 28]"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "text": "compel"
+      }, 
+      {
+       "text": "party or counsel, or both pay"
+      }, 
+      {
+       "text": "contempt"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "facts or documents deemed established"
+        }, 
+        {
+         "text": "refuse claims or defense"
+        }, 
+        {
+         "text": "refuse introduction of evidence"
+        }, 
+        {
+         "text": "striking out"
+        }, 
+        {
+         "text": "staying the proceedings"
+        }, 
+        {
+         "text": "dismissing the action or part thereof"
+        }, 
+        {
+         "text": "rendering DEFAULT JUDGMENT"
+        }, 
+        {
+         "text": "arrest"
+        }, 
+        {
+         "text": "payment of reasonable expenses"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "other consequences"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "refusal to comply [Rule 29]"
+    }, 
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "_"
+    }
+   ], 
+   "text": "modes of discovery"
+  }, 
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "enforcemenf ot right, redress of wrong"
+      }, 
+      {
+       "text": "prosecution for acts or omissions punishable"
+      }, 
+      {
+       "text": "specpro; establish status, right, fact"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "causes of actions"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "text": "stands to be benefited,\nentitled to avails of the suit"
+      }, 
+      {
+       "text": "intervention"
+      }, 
+      {
+       "text": "compulsory joinder of indispensable\nwithout whom no final determination can be had"
+      }, 
+      {
+       "text": "necessary parties\nif complete relief is to be accorded"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "common controversy"
+        }, 
+        {
+         "text": "numerous, impracticable to join"
+        }, 
+        {
+         "text": "sufficiently numerous and representative as to protect"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "class suit"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "actions that survive"
+        }, 
+        {
+         "childrenDirection": "down", 
+         "nodes": [
+          {
+           "text": "heirs may substitute"
+          }, 
+          {
+           "text": "appointment of administrator"
+          }, 
+          {
+           "text": "_"
+          }
+         ], 
+         "text": "duty of counsel ~ inform court with 30 days\nname and address of representative"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "death"
+      }, 
+      {
+       "_class": "style2", 
+       "name": "join_parties1", 
+       "nodes": [
+        {
+         "_class": "style2", 
+         "childrenDirection": "down", 
+         "nodes": [
+          {
+           "text": "right to relief"
+          }, 
+          {
+           "text": "in respect or arising out of same transaction (series)"
+          }, 
+          {
+           "text": "common question of law or fact to all\nplaintiffs or defendants"
+          }, 
+          {
+           "border": "2", 
+           "borderColor": "FF0000", 
+           "edge": "3", 
+           "margin": "4", 
+           "text": "_"
+          }
+         ], 
+         "text": "requisites"
+        }, 
+        {
+         "border": "2", 
+         "borderColor": "FF0000", 
+         "edge": "3", 
+         "margin": "4", 
+         "text": "_"
+        }
+       ], 
+       "text": "joinder of parties"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "parties"
+    }, 
+    {
+     "_class": "style2", 
+     "nodes": [
+      {
+       "text": "splitting"
+      }, 
+      {
+       "_class": "style2", 
+       "nodes": [
+        {
+         "name": "join_parties2", 
+         "text": "joinder of parties"
+        }, 
+        {
+         "text": "no special civil actions"
+        }, 
+        {
+         "text": "totality rule (aggregate amount)"
+        }, 
+        {
+         "text": "venue, jurisdiction\nRTC, if venue lies therein"
+        }, 
+        {
+         "border": "2", 
+         "borderColor": "FF0000", 
+         "edge": "3", 
+         "margin": "4", 
+         "text": "_"
+        }
+       ], 
+       "text": "requisites"
+      }, 
+      {
+       "border": "2", 
+       "borderColor": "FF0000", 
+       "edge": "3", 
+       "margin": "4", 
+       "text": "_"
+      }
+     ], 
+     "text": "joinder of actions"
+    }, 
+    {
+     "text": "venue of actions"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "actions"
+  }, 
+  {
+   "_class": "style2", 
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "difference with\ncriminal proceedings"
+    }, 
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "_"
+    }
+   ], 
+   "text": "demurrer to evidence"
+  }, 
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "execution pending appeal"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "execution"
+    }, 
+    {
+     "text": "summary judgments"
+    }, 
+    {
+     "text": "judgment on the pleadings"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "judgments"
+  }, 
+  {
+   "_class": "style2", 
+   "nodes": [
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "text": "prudence could not have\nguared against"
+          }, 
+          {
+           "text": "_"
+          }
+         ], 
+         "text": "FAME"
+        }, 
+        {
+         "nodes": [
+          {
+           "text": "diligence;\nchanges the result"
+          }, 
+          {
+           "text": "_"
+          }
+         ], 
+         "text": "newly discovered evidence"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "new trial"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "excessive"
+        }, 
+        {
+         "text": "contrary to law"
+        }, 
+        {
+         "text": "not supporte by\nevidence"
+        }, 
+        {
+         "text": "_"
+        }
+       ], 
+       "text": "MR"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "motion for new trial\nmotion for reconsideration"
+    }, 
+    {
+     "text": "appeal"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "FAME"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "relief from judgment"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "extrinsic fraud"
+      }, 
+      {
+       "text": "lack of jurisdiction\n(including lack of due process)"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "annulment of judgment"
+    }, 
+    {
+     "text": "collateral attack"
+    }, 
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "_"
+    }
+   ], 
+   "text": "post-judgment\nremedies"
+  }, 
+  {
+   "_class": "style2", 
+   "name": "motion_dismiss", 
+   "nodes": [
+    {
+     "text": "lack of jurisdiction"
+    }, 
+    {
+     "text": "litis pendencia"
+    }, 
+    {
+     "text": "res judicata"
+    }, 
+    {
+     "text": "prescription"
+    }, 
+    {
+     "border": "2", 
+     "borderColor": "FF0000", 
+     "edge": "3", 
+     "margin": "4", 
+     "text": "_"
+    }
+   ], 
+   "text": "motion to dismiss"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "matter of right - before responsive"
+      }, 
+      {
+       "text": "with leave - after"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "amendments"
+    }, 
+    {
+     "text": "supplemental pleadings"
+    }, 
+    {
+     "nodes": [
+      {
+       "name": "vs_modes_of_disc", 
+       "text": "vs modes of discovery"
+      }, 
+      {
+       "text": "_"
+      }
+     ], 
+     "text": "bill of particulars"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "pleadings"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "elections"
+    }, 
+    {
+     "text": "land regsitration"
+    }, 
+    {
+     "text": "cadastral"
+    }, 
+    {
+     "text": "naturalization"
+    }, 
+    {
+     "text": "insolvency"
+    }, 
+    {
+     "text": "_"
+    }
+   ], 
+   "text": "no applicable"
+  }, 
+  {
+   "direction": "left", 
+   "name": "before_answer", 
+   "text": "before the answer"
+  }
+ ], 
+ "text": "Civil\nProcedure"
+}

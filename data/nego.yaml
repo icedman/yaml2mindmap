@@ -1,0 +1,324 @@
+negotioable\ninstruments\nlaw:
+
+    negotiability (section 1):
+
+        childrenDirection:down
+        W - written instrument signed by maker or drawer
+        U - unconditional promise or order\n  to pay certain sum of money
+        P - payable on demand or at a determinable future time
+        O - rder or bearer
+        N - when ADDRESS to a drawee\n NAMED or indicated with certainty
+
+    features:
+
+        negotiability:
+            pass from hand to hand similar to money as to give the\nholder in due course right to hold free from defenses
+        accumulation of contracts:
+            as negotiated, as series of juridical ties arise
+
+    promissory note (184):
+
+        unconditional promise in writing
+        made by one person to another
+        signed by the maker
+        engaging to pay on demand or at a fixed determinable future time
+        a sum certain in money
+        to bearer or order.
+        where drawn to the maker's own name, not complete until endorsed
+
+    bill of exchange (126):
+
+        order in writing
+        addressed to a another
+        signed by the person giving it
+        requiring person whom it is addressed
+        to pay on demand or at a fixed determinable..
+        a sum certain in money
+
+    bill may be treated as note when:
+        name:bill_as_note
+
+        drawer, drawee same person
+        fictitious drawee
+        drawee no capacity to contract
+        instrument is ambiguous
+
+    stated installments:
+
+        dates must be fixed or determinable
+        amount stated
+
+    payable on demand:
+
+        when so expressed
+        no time fixed
+        when issued, accepted, indorsed when overdue\nas to such person so issuing...
+
+    payable to bearer:
+
+        when so expressed
+        when payable to a person named OR BEARER
+        fictitious or non-existing person
+        does not purport to be the name of a person ie. CASH
+        last indorsement is an indorsement in blank
+        ... NOT negotiable when payable to a specified person
+
+    negotiation:
+
+        transfer such as to constitute the transferee a holder
+        if bearer, by delivery:
+
+            may however be indoresed specially
+            bearer instrument, always bearer
+
+
+    indoresment:
+
+        qualified - without recourse
+        restrictive:
+
+            childrenDirection:down
+            pay to x only - prohibits further negotiation
+            pay to x for collection - constitutes indorsee as agent
+            pay to x in trust of y - vests the title in trust
+
+
+    holder:
+
+        childrenDirection:down
+        payee or indorsee in possession of the instrument
+        holder in due course  has taken the instrument:
+
+            childrenDirection:down
+            C - complete and regular upon its face
+            O - received before over due, no knowledge of previous dishonor
+            V - acquired in good faith and for value:
+                consideration sufficient to support a contract
+            N - no notice of infirmity or defect of title:
+                circumstances should have put him in inquiry
+
+        holder not in due course:
+
+            may sue thereon
+            payment discharges
+            but subject to personal defenses
+            exception Section 58:
+                a holder who is not a holder in due course but one\nderiving title from an HDC
+
+
+    forgery:
+        direction:left
+
+        childrenDirection:down
+        REAL defense
+        forged signature is wholly inoperative:
+
+            no right to retain
+            no right to give discharge
+            or enforce payment thereon
+
+        but not the instrument itself
+        and not the genuine signatures
+        not liable:
+
+            person,including indorsee\nwhose signature is forged
+            persons prior him also not liable
+
+        payment on such forged indorsement is not to the DRAWER's ORDER
+        exception:
+
+            parties who warrant; acceptors, indorsers
+            precluded from settin up forgery:
+                negligence
+
+        if bearer instrument:
+
+            persons who indorse are liable to those\nwho acquire title through their indorsement
+            M - A specificially to B in blank to - C - D:
+
+                childrenDirection:down
+                D did not acquire title through A & B's indorsement
+                ratified
+
+
+
+    effects of (14 15 16):
+        direction:left
+        framed:true
+
+        childrenDirection:down
+        incomplete but delivered (SECTION 14):
+            _class:style2
+
+            childrenDirection:down
+            wanting any material particular:
+                person in possession has prima facie authority to complete
+            a signature on a blank:
+                delivered by a person making, prima facie authority to fill
+            in both cases:
+
+                childrenDirection:down
+                instrument must be filled in accordance with authority given
+                and within reasonable time
+
+            hdc:
+
+                childrenDirection:down
+                may enforce as if filled strictly according to authorithy\nand within reasonable time
+                DELIVERY is CONCLUSIVELY PRESUMED
+
+            nhdc:
+                may enforce against parties subsequent to completion
+
+            personal defense
+
+        non-delivery of incomplete instrument (SECTION 15):
+
+            real defense
+            incomplete and undelivered, not valid in the hands of ANY HOLDER:
+                even against an HDC
+            subsequent indorsers - liable for their warranty
+
+            delivery is not conclusively presumed:
+                only prima facie
+
+        mechanically complete but undelivered (SECTION 16):
+
+            undelivered instrument is incomplete
+            in the hands of HDC, delivery is conclusively presumed
+
+            as between immediate parties, and remote not HDC:
+                delivery may be shown to be conditional, for special purpose, and not for transferring title
+        summary of rules:
+            1. delivery is essential to validity
+            2. between immediate parties, delivery must be with intent to pass title
+            3. incomplete and undelivery invalid as to maker
+            4. as to 3, in the hands of HDC, prima facie delivery
+            5. mechanically complete undelivered, prima facie delivery
+            6. as to 5, in the hands of HDC, conclusively presumed
+
+
+    material alterations:
+
+        changes the effect of the instrument
+        avoids the instrument except as to:
+
+            those made,
+            authorized,
+            assented,
+            subsequent indorsers
+
+
+    parties and liabilities:
+        direction:left
+        framed:true
+
+        childrenDirection:down
+        accommodation:
+
+            primarily liable
+            signed the instrument
+            as drawer, maker, acceptor, indorser
+            withour receiving value
+            for purpose of lending his name or credit
+
+        maker:
+
+            primarily liable
+            1. engages to pay according to the tenor
+            2. admits existence of payee and his capacity to indorse
+
+        acceptor:
+
+            primarily liable
+            1. engages to pay according to tenor
+            2. admits existence of drawer and authority
+            3. admits existence of payee and capacity
+
+        drawer:
+
+            secondary
+            1. admits existence of payee and his capacity to indorse
+            2. engages that the instrument will be accepted
+            3. engages that if dishonored and proper proceedings
+
+        indorser:
+
+            childrenDirection:down
+            Every person negotiating an instrument by\ndelivery or by a qualified indorsement warrants (SECTION 65):
+
+                childrenDirection:down
+                (a) instrument is genuine and in all respects what it purports to be;
+                (b) That he has a good title to it;
+                (c) all prior parties had capacity to contract;
+                (d) he has no knowledge of any fact which would\nimpair the validity of the instrument\nor render it valueless.
+
+            Liability of general indorser (SECTION 66):
+
+                childrenDirection:down
+                (a)  A,B,C of 65
+                (b) instrument is at the time of his indorsement valid and subsisting.
+                1. he engages that on due presentment\nit shall be accepted or paid, or both\naccording to tenor
+                2. and that if it be dishonored\nand the necessary proceedings on dishonor be duly taken\nhe will pay the amount thereof to the  holder\nor to any subsequent indorser who may be compelled to pay it.
+
+
+
+    presentment:
+        direction:left
+
+        childrenDirection:down
+        requisites:
+
+            place
+            hour
+            to person primarily liable
+            exhibit instrument, surrender if paid
+
+        not necessary:
+
+            drawer or indorser .. no right to expect ..
+            dispenseed with
+
+
+    notice to drawer:
+        direction:left
+        not necessary when:
+
+            like when bill treated as note:
+                name:like_bill_as_note
+            or countermanded payment
+
+    notice dispensed (114, 115):
+
+        as to drawer:
+            1. drawer, drawee same person
+            2. fictitious
+            3. drawer same person to whom ... presented for payment
+            4. drawer no right to expect
+            5. drawer countermanded payment
+
+        as to indorser:
+            1. drawee fictitious
+            2. indorser same person to whom ... presented for payment
+            3. when instrument is accepted for indorser's accommodation
+
+    discharge:
+        1. payment in due course by principal
+        2. or by or accommodated
+        3. intentional cancellation
+        4. other act that discharges contract for payment of money
+        5. principal debtor becomes holder in his own right
+
+    discharge of secondarily liable:
+        discharge of instrument
+        cancellation
+        discharge of prior party
+        agreement to extend
+
+    payment in due course:
+        made at or after maturity
+        to holder
+        in good faith and without notice
+
+    edges:
+        bill_as_note, like_bill_as_note
