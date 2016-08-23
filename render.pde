@@ -97,10 +97,17 @@ class Renderer {
     float tx = (eh.height / 2) + (r.width / 2) - (ew.width / 2);
     float ty = (eh.height / 1.6) + (r.height / 2) - (ew.height / 2);
 
-    g.textFont(gs.font, style.textSize);
-    g.textAlign(style.textAlign);
-    g.fill(style.textColor);
-    g.text(n.text, r.x + tx, r.y + ty);
+    if (previewOnly) {
+      int border = 8;
+      g.fill(style.textColor);
+      g.noStroke();
+      g.rect(r.x + (border*2), r.y + (border*2), r.width - (border*4), r.height - (border*4));
+    } else {
+      g.textFont(gs.font, style.textSize);
+      g.textAlign(style.textAlign);
+      g.fill(style.textColor);
+      g.text(n.text, r.x + tx, r.y + ty);
+    }
 
     for (Object c : n.children) {
       Node nc = (Node)c;

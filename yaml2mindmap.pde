@@ -1,4 +1,6 @@
-String project = "civpro";
+String project = "crim2b";
+
+boolean previewOnly = false;
 
 Node root;
 
@@ -23,6 +25,9 @@ void doRedraw() {
 
 void settings()
 {
+  if (previewOnly) {
+    scale = 0.25;
+  }
   size((int)(1280*windowScale), (int)(720*windowScale));
 }
 
@@ -117,8 +122,11 @@ void keyReleased() {
   
   {
     if (key == 'i') {
+      boolean tmp = previewOnly;
+      previewOnly = false;
       println("saving image");
       globalRenderer.saveImage(root, fileScale);
+      previewOnly = tmp;
     }
   }
   

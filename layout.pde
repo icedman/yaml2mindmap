@@ -89,6 +89,13 @@ class Layout {
 
   void _position(Node n) {
 
+    boolean centeredVertically = false;
+
+    if (n.parent != null) {
+      if (n.parent.parent == null)
+        centeredVertically = true;
+    }
+    
     Style style = n.style;
     Rect exT = style.calculateTextExtents(n.text, style.textSize);
     Rect exS = style.calculateTextExtents(" ", style.textSize);
@@ -122,6 +129,10 @@ class Layout {
       }
       
       _position(nc);
+    }
+    
+    if (centeredVertically && ! n.childrenDirection.equals("down") && children.size() > 1) {
+       n.layout.y = n.layout.y + (n.layout.bounds.height / 2); 
     }
   }
   
@@ -222,7 +233,7 @@ class Layout {
     _reset(n);
     _calculateSize(n);
 
-    int d = _getDepth();
+    int d = 1; // _getDepth();
     for (int i=0; i<d; i++) {
       _calculateBounds(n);
       _position(n);

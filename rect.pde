@@ -66,4 +66,10 @@ class Rect {
     width = 0;
     height = 0;
   }
+  
+  boolean pointInRect(int px, int py) {
+    if (px < x || px > x + width || py < y || py > y +height)
+      return false;
+    return true;
+  }
 }
