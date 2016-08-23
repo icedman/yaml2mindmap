@@ -1,73 +1,256 @@
 {
  "nodes": [
   {
+   "childrenDirection": "down", 
    "nodes": [
     {
      "nodes": [
       {
-       "text": "conspiracy"
+       "nodes": [
+        {
+         "text": "two witnesses to the same overt act"
+        }, 
+        {
+         "text": "testify in open court"
+        }, 
+        {
+         "text": "accused may however be convicted\nupon his own testimony"
+        }
+       ], 
+       "text": "two witness rule"
       }, 
       {
+       "text": "1. levying was against the philippines"
+      }, 
+      {
+       "text": "2. adhering to the enemy, giving aid or comfort"
+      }, 
+      {
+       "text": "conspiracy and proposal to commit treason"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "who having knowledge of any conspiracy"
+        }, 
+        {
+         "text": "conceals or does not disclose"
+        }
+       ], 
        "text": "misprision of treason"
+      }, 
+      {
+       "nodes": [
+        {
+         "childrenDirection": "down", 
+         "nodes": [
+          {
+           "text": "enters warship, naval, military establishment"
+          }
+         ], 
+         "text": "1. without authority, obtains plans or information"
+        }, 
+        {
+         "text": "2. being in possession, discloses"
+        }
+       ], 
+       "text": "espionage"
       }
      ], 
      "text": "treason and espionage"
     }, 
     {
-     "text": "provoking war"
-    }, 
-    {
+     "nodes": [
+      {
+       "text": "on occasion of war where philippines is not involved"
+      }, 
+      {
+       "text": "violates a regulation issued for enforcing neutrality"
+      }
+     ], 
      "text": "violation of neutrality"
-    }, 
-    {
-     "text": "correspondence"
-    }, 
-    {
-     "text": "flight"
     }, 
     {
      "nodes": [
       {
+       "nodes": [
+        {
+         "text": "1. attacking or seizing the vessel"
+        }, 
+        {
+         "text": "2. seizing in whole or part cargo,\nequipment, personal belongings"
+        }, 
+        {
+         "text": "in the high seas"
+        }, 
+        {
+         "text": "or philippine waters (as amended)"
+        }, 
+        {
+         "text": "not a member of crew, or passenger"
+        }
+       ], 
        "text": "article 122"
       }, 
       {
+       "nodes": [
+        {
+         "text": "members of compliment"
+        }, 
+        {
+         "text": "raises commotion to protest or defy lawful command"
+        }, 
+        {
+         "text": "employing violence"
+        }
+       ], 
+       "text": "mutiny"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "'hightest forms' of lawlessness, condemned by all countries"
+        }, 
+        {
+         "text": "in philippine waters"
+        }, 
+        {
+         "text": "including by members or compliment and passengers"
+        }, 
+        {
+         "text": "violence and intimidation, or force upon things"
+        }
+       ], 
        "text": "pd 532"
       }, 
       {
-       "text": "qualified piracy"
+       "text": "exception to the territoriality principle"
       }, 
       {
-       "text": "people vs tulin"
+       "nodes": [
+        {
+         "text": "seizing vessel by boarding and firing upon"
+        }, 
+        {
+         "text": "abandonment without means of saving"
+        }, 
+        {
+         "text": "accompanied by rape, homicide, murder, physical injuries"
+        }
+       ], 
+       "text": "qualified piracy/mutiny"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "1. seizing control aircraft of philippine registry, while in flight"
+        }, 
+        {
+         "text": "2. forcing aircraft of foreign registry to land or seizing control"
+        }, 
+        {
+         "text": "3. loading public utility passenger, corrosive, flammable, explosive or poisonous"
+        }, 
+        {
+         "text": "4. public utility cargo, not in compliance with ATO regulations"
+        }
+       ], 
+       "text": "anti-hijacking"
       }
      ], 
-     "text": "piracy"
+     "text": "mutiny and piracy"
     }
    ], 
-   "text": "crimes against national security\nand law of nations"
+   "text": "title 1.\ncrimes against national security\nand law of nations"
   }, 
   {
+   "childrenDirection": "down", 
    "nodes": [
     {
+     "nodes": [
+      {
+       "text": "public officer detains without legal grounds"
+      }, 
+      {
+       "text": "officer ~ vested with authority"
+      }, 
+      {
+       "text": "detention ~ any manner depriving liberty"
+      }
+     ], 
      "text": "arbitrary detention"
     }, 
     {
+     "nodes": [
+      {
+       "text": "to proper judicial authority (courts of justice)"
+      }, 
+      {
+       "text": "right to be informed, right to bail"
+      }, 
+      {
+       "text": "12-18-36"
+      }
+     ], 
      "text": "art. 125 delay in the delivery"
     }, 
     {
+     "nodes": [
+      {
+       "text": "delays release, service of notice, proceedings"
+      }
+     ], 
      "text": "delaying release"
     }, 
     {
+     "nodes": [
+      {
+       "text": "from the philippine islands"
+      }, 
+      {
+       "text": "only the president has the power to deport"
+      }, 
+      {
+       "text": "and the court"
+      }
+     ], 
      "text": "expulsion"
     }, 
     {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "text": "1. public officer enters against the will"
+      }, 
+      {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "text": "ignores prohibition, express or implied (locked door)"
+        }
+       ], 
+       "text": "2. seasrches for papers or effects without consent"
+      }, 
+      {
+       "text": "3. having surreptitiously entered, refusal to leave"
+      }
+     ], 
      "text": "violation of domicile"
     }, 
     {
      "nodes": [
       {
-       "text": "maliciously obtained"
+       "text": "maliciously obtained ~ without just cause"
       }, 
       {
+       "nodes": [
+        {
+         "text": "exceeding authority"
+        }, 
+        {
+         "text": "excessive severity"
+        }
+       ], 
        "text": "abuse in the service"
       }, 
       {
@@ -77,31 +260,111 @@
      "text": "search warrants"
     }, 
     {
+     "nodes": [
+      {
+       "text": "1. prohibiting, interreupting, dissolving"
+      }, 
+      {
+       "text": "2. hindering from joining"
+      }, 
+      {
+       "text": "3. hindering petition for correction of abuses, or redress of grievances"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "peaceful"
+        }, 
+        {
+         "text": "for lawful purpose"
+        }, 
+        {
+         "text": "officer is not a member"
+        }
+       ], 
+       "text": "required"
+      }
+     ], 
      "text": "prohibition, interruption, dissolution\nof peaceful meetings"
     }, 
     {
      "nodes": [
       {
+       "nodes": [
+        {
+         "text": "ceremonies or manifestations of any religion"
+        }
+       ], 
        "text": "interruption of religious worship"
       }, 
       {
+       "nodes": [
+        {
+         "text": "in a place devoted to worship"
+        }, 
+        {
+         "text": "or during celebration"
+        }, 
+        {
+         "text": "acts notoriously offensive to the feelings of the faithful"
+        }, 
+        {
+         "text": "'anyone' may be committed by a private offender\n(EXCEPTION to TITLE)"
+        }
+       ], 
        "text": "offending religious feelings"
       }
      ], 
      "text": "crimes against religious worship"
     }
    ], 
-   "text": "crimes against fundamental\nlaws of the state"
+   "text": "title 2.\ncrimes against fundamental\nlaws of the state"
   }, 
   {
+   "childrenDirection": "down", 
+   "direction": "left", 
    "nodes": [
     {
      "nodes": [
       {
+       "text": "public uprising and taking up arms"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "political"
+        }, 
+        {
+         "text": "1. removing allegiance to the government\narmed forces"
+        }, 
+        {
+         "text": "2. or depriving the chief executive, legislature\ntheir powers and prerogatives"
+        }
+       ], 
+       "text": "purpose"
+      }, 
+      {
+       "text": "rebellion is complete overthrow"
+      }, 
+      {
+       "text": "insurrection"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "murder, homicide, arson are separate offenses"
+        }, 
+        {
+         "text": "but may not be prosecuted separtely where\nindictment alleges .. infurtherance"
+        }
+       ], 
+       "text": "'in furtherance of rebellion'"
+      }, 
+      {
        "text": "conspiracy"
       }, 
       {
-       "text": "inciting to rebellion or insurrection"
+       "text": "inciting to rebellion or insurrection (138)"
       }
      ], 
      "text": "rebellion"
@@ -109,10 +372,28 @@
     {
      "nodes": [
       {
+       "text": "swift attack accompanied by violence, intimidation, threast, strategy or stealth"
+      }, 
+      {
+       "text": "against duly constituted authorities, or any military camp"
+      }, 
+      {
+       "text": "or installation, communications network, public utitlity"
+      }, 
+      {
+       "text": "or facilities needed for the exercise of power"
+      }, 
+      {
+       "text": "purpose ~ diminish state power"
+      }, 
+      {
+       "text": "by persons belonging to the military or police"
+      }, 
+      {
        "text": "conspiracy"
       }
      ], 
-     "text": "coup d'etat"
+     "text": "coup d'etat '"
     }, 
     {
      "text": "disloyalty of public officers"
@@ -120,15 +401,64 @@
     {
      "nodes": [
       {
+       "text": "crime of dissent or protest by means outside of legal methods"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "not necessarily taking up arms"
+        }
+       ], 
+       "text": "1. offenders rise publicly and tumultuously"
+      }, 
+      {
+       "text": "2. force or intimidation, or unlawful means"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "political or social"
+        }, 
+        {
+         "text": "1. prevent promulgation, execution of law, popular election"
+        }, 
+        {
+         "text": "2. prevent exercise of functions, administrative orders"
+        }, 
+        {
+         "text": "3. hate or revenge on person or property of public officer"
+        }, 
+        {
+         "text": "4. hate or revenge on private person or social class\nforpolitical social end"
+        }, 
+        {
+         "text": "5. despoil property\nforpolitical social end"
+        }
+       ], 
+       "text": "3. purpose"
+      }, 
+      {
        "text": "conspiracy"
       }, 
       {
-       "text": "inciting to sedition"
+       "nodes": [
+        {
+         "text": "speeches, seditious words, scurrilous libels"
+        }, 
+        {
+         "text": "knowlingly conceals such practice"
+        }, 
+        {
+         "text": "link to tumults, direct assaults"
+        }
+       ], 
+       "text": "inciting to sedition (142)"
       }
      ], 
      "text": "sedition"
     }, 
     {
+     "childrenDirection": "down", 
      "nodes": [
       {
        "text": "tending to prevent meeting of the Assembly"
@@ -137,88 +467,655 @@
        "text": "disturbance of proceedings"
       }, 
       {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "text": "any person who by force, intimidation, threats, fraud prevents member of congress"
+        }, 
+        {
+         "text": "public officer who arrests, while in session except for crime higher that prision mayor"
+        }
+       ], 
        "text": "violation of parliamentary immunity"
       }
      ], 
      "text": "against popular representation"
     }, 
     {
+     "nodes": [
+      {
+       "text": "gravamen mere gathering for unlawful purpose relating to crime under RPC"
+      }, 
+      {
+       "text": "1. gathering persons who are armed"
+      }, 
+      {
+       "text": "2. gathering where audience is\nincited to treason, rebellion, sedition, or assaults\nevent without armed men"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "if intent of leader is to incite sedition,\\mnot mere incidental"
+        }
+       ], 
+       "text": "inciting to sedition"
+      }
+     ], 
      "text": "illegal assemblies"
     }, 
     {
+     "nodes": [
+      {
+       "text": "forming association for activities punishable under RPC"
+      }, 
+      {
+       "text": "or by special laws against public morals"
+      }, 
+      {
+       "text": "or any act prejudicial to public welfare"
+      }
+     ], 
      "text": "illegal association"
     }, 
     {
      "nodes": [
       {
-       "text": "direct assaults"
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "childrenDirection": "down", 
+           "nodes": [
+            {
+             "text": "'rebellion by a handful'"
+            }, 
+            {
+             "nodes": [
+              {
+               "text": "link to rebellion"
+              }
+             ], 
+             "text": "cannot be committed during rebellion"
+            }
+           ], 
+           "text": "without public uprising"
+          }, 
+          {
+           "text": "employ force or intimidation"
+          }, 
+          {
+           "text": "seditious purposes"
+          }
+         ], 
+         "text": "1. first mode"
+        }, 
+        {
+         "childrenDirection": "down", 
+         "nodes": [
+          {
+           "text": "attacking, employing force,\nseriously intimiding, seriously resisting"
+          }, 
+          {
+           "text": "in the performance of duties; or on occasion thereof"
+          }, 
+          {
+           "text": "offender knows victim is PA"
+          }
+         ], 
+         "text": "2. second mode ~ laying hands upon PA or APA"
+        }
+       ], 
+       "text": "direct assaults 148"
       }, 
       {
+       "text": "spirit of lawlessness"
+      }, 
+      {
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "text": "'Direct Assault with Murder or Homicide'"
+          }
+         ], 
+         "text": "DA is generally complexed with other crimes"
+        }, 
+        {
+         "text": "slight physicial is absorbed"
+        }
+       ], 
+       "text": "article 48"
+      }, 
+      {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "text": "against agent, need not be serious (paragraph 2)"
+          }
+         ], 
+         "text": "resists and seriously disobeys"
+        }, 
+        {
+         "text": "PA in performance of function"
+        }
+       ], 
+       "text": "resistance and disobedience 151"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "a public officer"
+        }, 
+        {
+         "text": "vested with jurisdiction recognize by law"
+        }, 
+        {
+         "text": "punong barangay deemd PA"
+        }, 
+        {
+         "nodes": [
+          {
+           "text": "deemed included for the purpose of 148, 151"
+          }
+         ], 
+         "text": "teachers, lawyers, heads of schools"
+        }
+       ], 
+       "text": "persons in authority (PA)"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "who by direct provision of law, by appointment, or by election"
+        }, 
+        {
+         "text": "charged with maintenance of order, protection, security of life and property"
+        }, 
+        {
+         "text": "and any person who comes to the aid of such person"
+        }
+       ], 
+       "text": "agent of a person in authority (APA)"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "attacking a civilian who comes to the aid of PA or APA"
+        }, 
+        {
+         "text": "civilian himself becomes an APA"
+        }
+       ], 
        "text": "indirect assaults"
-      }, 
-      {
-       "text": "persons in authority"
       }
      ], 
      "text": "assaults"
-    }, 
-    {
-     "nodes": [
-      {
-       "text": "tumults"
-      }, 
-      {
-       "text": "unlawful use of means of publication\nunlawful utterance"
-      }, 
-      {
-       "text": "alarms and scandals"
-      }, 
-      {
-       "text": "delivery of prisoner from jail"
-      }
-     ], 
-     "text": "public disorders"
-    }, 
-    {
-     "nodes": [
-      {
-       "text": "on occasion of disorders, conflagrations,earthquakes, calamities"
-      }
-     ], 
-     "text": "evasion of service of sentence"
     }
    ], 
-   "text": "crimes against public order"
+   "text": "title 3.\ncrimes against public order"
   }, 
   {
+   "childrenDirection": "down", 
    "direction": "left", 
    "nodes": [
     {
-     "text": "foregries"
+     "nodes": [
+      {
+       "text": "1. serious disturbance in any public place or establishment"
+      }, 
+      {
+       "nodes": [
+        {
+         "nodes": [
+          {
+           "text": "131 peaceful meetings"
+          }, 
+          {
+           "text": "132 religious worship"
+          }
+         ], 
+         "text": "except"
+        }
+       ], 
+       "text": "2. interruption of public performance, function, gathering"
+      }, 
+      {
+       "text": "3. making outcry, tending to incite rebellion, sedition"
+      }, 
+      {
+       "text": "4. burying dead with pomp of a person legally executed"
+      }
+     ], 
+     "text": "tumults (153)"
     }, 
     {
-     "text": "Art. 169 forgery - how committed"
+     "text": "disturbances (138, 142, 153)"
     }, 
     {
+     "nodes": [
+      {
+       "text": "1. discharge of firearms"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "mock seranade, using cans, utensils"
+        }
+       ], 
+       "text": "2. charivari, disturbing public tranquility"
+      }, 
+      {
+       "text": "3. nocturnal amusement, disturbing public peace"
+      }, 
+      {
+       "text": "4. disturbances not amounting to tumults"
+      }
+     ], 
+     "text": "alarms and scandals"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "if noise directed at person"
+      }
+     ], 
+     "text": "unjust vexation"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "not directed at anyone"
+        }
+       ], 
+       "text": "alarms and scandals"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "directed at a person, no intent to kill proved"
+        }
+       ], 
+       "text": "illegal discharge"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "intent to kill"
+        }
+       ], 
+       "text": "attempted or frustrated homicide or murder"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "no intention to kill"
+        }
+       ], 
+       "text": "physical injuries"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "not discharged but aimed at a person"
+        }, 
+        {
+         "text": "but is 'other light threats' if drawn in a quarrel"
+        }
+       ], 
+       "text": "threats"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "threat is immediate or serious"
+        }, 
+        {
+         "text": "person is compelled or prevent to do so act"
+        }
+       ], 
+       "text": "grave coercion"
+      }, 
+      {
+       "text": "illegal possession"
+      }
+     ], 
+     "text": "use of firearms"
+    }, 
+    {
+     "text": "delivery of prisoner from jail"
+    }, 
+    {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "by escaping during the term of his\nimprisonment by reason of final judgment"
+        }
+       ], 
+       "text": "evasion"
+      }, 
+      {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "text": "must returh within 48 hours, 1/5\ndeduction of remaining sentence"
+        }, 
+        {
+         "text": "otherwise increase 1/5 of remaining sentence"
+        }
+       ], 
+       "text": "on occasion of disorders from conflagrations, earthquakes\n, explosions, similar catastrophies, mutiny"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "serve the unexpired portion"
+        }, 
+        {
+         "text": "if penalty was six years or less,\nadditional prision correccional"
+        }
+       ], 
+       "text": "violation of conditional pardon"
+      }
+     ], 
+     "text": "evasion of service of sentence 157"
+    }, 
+    {
+     "text": "infidelity in the custody of a prisoner"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "before or while serving sentence commits a felony"
+      }, 
+      {
+       "text": "suffer maximum period of the penalty of new felony"
+      }, 
+      {
+       "text": "in addition to habitual deliquency, if applicable"
+      }
+     ], 
+     "text": "quasi-recidivism"
+    }
+   ], 
+   "text": "title 3++. public disorders"
+  }, 
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "violation of the faith or trust of public in the document"
+      }, 
+      {
+       "text": "felony, with intent to pervert the truth"
+      }
+     ], 
      "text": "falsification"
     }, 
     {
-     "text": "art 171"
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "nodes": [
+        {
+         "text": "1. offender is a po, notary, ecclesiastic"
+        }, 
+        {
+         "text": "2. takes advantage of his position"
+        }, 
+        {
+         "text": "3. falsifies"
+        }
+       ], 
+       "text": "elements"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "1. counterfeiting handwriting or signature"
+        }, 
+        {
+         "text": "2. causing to appear participation"
+        }, 
+        {
+         "text": "3. attributing to person facts"
+        }, 
+        {
+         "childrenDirection": "down", 
+         "nodes": [
+          {
+           "text": "makes in a document narration of facts"
+          }, 
+          {
+           "text": "under legal obligation to disclose the truth"
+          }, 
+          {
+           "text": "facts narrated are absolutely false"
+          }
+         ], 
+         "text": "4. untruthful statemens in narration of fact"
+        }, 
+        {
+         "text": "5. altering true dates"
+        }, 
+        {
+         "text": "6. alteration, intercalation to change meaning"
+        }, 
+        {
+         "text": "7. purporting to be a copy of original"
+        }, 
+        {
+         "text": "8. intercalating note relative to the issuance"
+        }
+       ], 
+       "text": "8 ways"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "1. when required to be made under oath"
+        }, 
+        {
+         "text": "2. when statements are material matter"
+        }
+       ], 
+       "text": "perjury"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "private ~ deed between private individuals"
+        }, 
+        {
+         "nodes": [
+          {
+           "text": "has become part of public record"
+          }, 
+          {
+           "text": "prima facie evidence of facts stated therein"
+          }
+         ], 
+         "text": "public ~ notarized"
+        }, 
+        {
+         "text": "official ~ issuance mandated by law, in performance of duty"
+        }, 
+        {
+         "text": "commercial"
+        }
+       ], 
+       "text": "documents"
+      }
+     ], 
+     "text": "art 171 falsification by\npublic officer, notary, eccelsiastical miniter"
     }, 
     {
-     "text": "art 172"
+     "nodes": [
+      {
+       "text": "1. falsification of public, official, or commercial documents by private"
+      }, 
+      {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "text": "requires intent to caues damage"
+        }
+       ], 
+       "text": "2. falsification of private document by any person"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "judicial proceeding"
+        }, 
+        {
+         "text": "any proceeding (even without damage or intent)"
+        }
+       ], 
+       "text": "3. use of falsified document in a"
+      }
+     ], 
+     "text": "art 172 by private offender"
     }, 
     {
+     "nodes": [
+      {
+       "text": "mere representation"
+      }, 
+      {
+       "text": "performing functions"
+      }
+     ], 
      "text": "usurpation of official functions"
     }, 
     {
+     "childrenDirection": "down", 
+     "nodes": [
+      {
+       "text": "for purpose of concealing a crime,\nevading execution, causing damage"
+      }
+     ], 
      "text": "fictitious name and concealing true name"
     }, 
     {
+     "nodes": [
+      {
+       "text": "criminal ~ for or against"
+      }, 
+      {
+       "text": "civil"
+      }
+     ], 
      "text": "false testimony"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "statement under oath or affidavit upon a material matter"
+      }, 
+      {
+       "text": "before an authorized officer"
+      }, 
+      {
+       "text": "willful and deliberate assertion of falsehood"
+      }, 
+      {
+       "text": "required by law or for legal purpose"
+      }
+     ], 
+     "text": "perjury (183)"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "machinations in public auctions"
+      }, 
+      {
+       "text": "monopolies and combination in restraint of trade"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "1. offer to the public"
+        }, 
+        {
+         "text": "2. opportunity for competition"
+        }, 
+        {
+         "text": "3. basis for exact comparison of bids"
+        }
+       ], 
+       "text": "principles of public bidding"
+      }
+     ], 
+     "text": "frauds"
     }
    ], 
-   "text": "crimes against public interest"
+   "text": "title 4.\ncrimes against public interest"
+  }, 
+  {
+   "text": "title 5. crimes related to drugs"
+  }, 
+  {
+   "nodes": [
+    {
+     "text": "gambling and betting"
+    }, 
+    {
+     "nodes": [
+      {
+       "childrenDirection": "down", 
+       "nodes": [
+        {
+         "text": "highly scandalous acts, offensive to morals and good customs"
+        }, 
+        {
+         "text": "public knowledge or within vieww of the public"
+        }, 
+        {
+         "text": "not another offense in the RPC"
+        }
+       ], 
+       "text": "grave scandals"
+      }, 
+      {
+       "text": "immoral doctrines, obscene publications and exhibitions\nand indecent shows"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "decriminalized"
+        }
+       ], 
+       "text": "vargrants"
+      }, 
+      {
+       "nodes": [
+        {
+         "text": "offender is a woman"
+        }, 
+        {
+         "text": "habitually indulges in sexual intercourse or lascivious conduct"
+        }, 
+        {
+         "text": "for money or profit"
+        }
+       ], 
+       "text": "prostitution"
+      }
+     ], 
+     "text": "offenses against decency"
+    }
+   ], 
+   "text": "title 6.\ncrimes against public morals"
   }
  ], 
  "text": "crim\nbook 2"
