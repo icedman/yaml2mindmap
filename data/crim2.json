@@ -1,0 +1,225 @@
+{
+ "nodes": [
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "conspiracy"
+      }, 
+      {
+       "text": "misprision of treason"
+      }
+     ], 
+     "text": "treason and espionage"
+    }, 
+    {
+     "text": "provoking war"
+    }, 
+    {
+     "text": "violation of neutrality"
+    }, 
+    {
+     "text": "correspondence"
+    }, 
+    {
+     "text": "flight"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "article 122"
+      }, 
+      {
+       "text": "pd 532"
+      }, 
+      {
+       "text": "qualified piracy"
+      }, 
+      {
+       "text": "people vs tulin"
+      }
+     ], 
+     "text": "piracy"
+    }
+   ], 
+   "text": "crimes against national security\nand law of nations"
+  }, 
+  {
+   "nodes": [
+    {
+     "text": "arbitrary detention"
+    }, 
+    {
+     "text": "art. 125 delay in the delivery"
+    }, 
+    {
+     "text": "delaying release"
+    }, 
+    {
+     "text": "expulsion"
+    }, 
+    {
+     "text": "violation of domicile"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "maliciously obtained"
+      }, 
+      {
+       "text": "abuse in the service"
+      }, 
+      {
+       "text": "searching without witnesses"
+      }
+     ], 
+     "text": "search warrants"
+    }, 
+    {
+     "text": "prohibition, interruption, dissolution\nof peaceful meetings"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "interruption of religious worship"
+      }, 
+      {
+       "text": "offending religious feelings"
+      }
+     ], 
+     "text": "crimes against religious worship"
+    }
+   ], 
+   "text": "crimes against fundamental\nlaws of the state"
+  }, 
+  {
+   "nodes": [
+    {
+     "nodes": [
+      {
+       "text": "conspiracy"
+      }, 
+      {
+       "text": "inciting to rebellion or insurrection"
+      }
+     ], 
+     "text": "rebellion"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "conspiracy"
+      }
+     ], 
+     "text": "coup d'etat"
+    }, 
+    {
+     "text": "disloyalty of public officers"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "conspiracy"
+      }, 
+      {
+       "text": "inciting to sedition"
+      }
+     ], 
+     "text": "sedition"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "tending to prevent meeting of the Assembly"
+      }, 
+      {
+       "text": "disturbance of proceedings"
+      }, 
+      {
+       "text": "violation of parliamentary immunity"
+      }
+     ], 
+     "text": "against popular representation"
+    }, 
+    {
+     "text": "illegal assemblies"
+    }, 
+    {
+     "text": "illegal association"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "direct assaults"
+      }, 
+      {
+       "text": "indirect assaults"
+      }, 
+      {
+       "text": "persons in authority"
+      }
+     ], 
+     "text": "assaults"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "tumults"
+      }, 
+      {
+       "text": "unlawful use of means of publication\nunlawful utterance"
+      }, 
+      {
+       "text": "alarms and scandals"
+      }, 
+      {
+       "text": "delivery of prisoner from jail"
+      }
+     ], 
+     "text": "public disorders"
+    }, 
+    {
+     "nodes": [
+      {
+       "text": "on occasion of disorders, conflagrations,earthquakes, calamities"
+      }
+     ], 
+     "text": "evasion of service of sentence"
+    }
+   ], 
+   "text": "crimes against public order"
+  }, 
+  {
+   "direction": "left", 
+   "nodes": [
+    {
+     "text": "foregries"
+    }, 
+    {
+     "text": "Art. 169 forgery - how committed"
+    }, 
+    {
+     "text": "falsification"
+    }, 
+    {
+     "text": "art 171"
+    }, 
+    {
+     "text": "art 172"
+    }, 
+    {
+     "text": "usurpation of official functions"
+    }, 
+    {
+     "text": "fictitious name and concealing true name"
+    }, 
+    {
+     "text": "false testimony"
+    }
+   ], 
+   "text": "crimes against public interest"
+  }
+ ], 
+ "text": "crim\nbook 2"
+}
